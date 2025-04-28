@@ -5,7 +5,7 @@
 #### so it's my learning path to bring some knowlegde and prospective towrds ml models.
 ==========================================================================================  
   
-we all know **AI** is Whole Universe it mimics the humans in order to make decision and solve probmels faster that humans. they interpret and under goes comphrehensive learning to make precise decisions, AI Could be a ROBOT/TOOl/Machine.....   
+we all know **AI** is Whole Universe it mimics the humans in order to make decision and solve problems faster that humans. they interpret and under goes comprehensive learning to make precise decisions, AI Could be a ROBOT/TOOLS/Machine.....   
   
 **ML** Which Learns the pattern from the data we give it to learn from that, data has input and output, where ml learns the data and its pattern between input and output, once learned it builds the model that suits its data type, then it predicts, decide or solves the problems.
 
