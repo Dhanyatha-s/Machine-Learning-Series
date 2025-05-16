@@ -11,5 +11,6 @@ we all know **AI** is Whole Universe it mimics the humans in order to make decis
 
   Based on what i just understood that ml ---> takes data ----> learns from it -----> builds model ----> answers the questions  
   So Here is how it happens **Episode 1: How ML Learns and Prdicts** [Link](how_ml_works.ipynb)
+                            **Episode 2: How to Build Brain (Neural Networks)** [Link](how_to_build_brain.md)
   
   
