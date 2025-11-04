@@ -13,5 +13,6 @@ we all know **AI** is Whole Universe it mimics the humans in order to make decis
   So Here is how it happens  
   **Episode 1: How ML Learns and Prdicts** [Link](how_ml_works.ipynb)  
   **Episode 2: How to Build Brain (Neural Networks)**[Link](https://github.com/Dhanyatha-s/Machine-Learning-Series/blob/1f3ca357fc0cb3a6ca1d98034ac06724e2f45b49/how%20to%20build%20Brain.md)
+  **Episode 3: Unsupervised Learning(kMeans)**[Link](https://www.kaggle.com/code/dhanyathas/lead-conversion-analysis)
   
   
