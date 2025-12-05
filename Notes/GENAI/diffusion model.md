@@ -1,3 +1,8 @@
+# Diffusion Model
+[diffusion model basics.pdf](https://github.com/user-attachments/files/23966577/diffusion.model.basics.pdf)
+
+[diffusion model in-depth.pdf](https://github.com/user-attachments/files/23966576/diffusion.model.in-depth.pdf)
+
 Beyond image and video generation, diffusion models are used in fields like medical imaging, drug discovery, audio synthesis, natural language processing, and reinforcement learning.   
 ### Where Diffusion Models are Used?  
 Diffusion models are versatile and applied across various domains by formulating problems as a process of transforming noise into structured data or performing noise reduction on existing data. 
