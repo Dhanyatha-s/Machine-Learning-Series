@@ -1,0 +1,25 @@
+Language models (LMs) range from older statistical methods (N-grams, TF-IDF) to modern Deep Learning models like Transformers, categorized by architecture (Decoder-only for generation, Encoder-only for understanding, Encoder-Decoder for translation) and function (instruction-tuned, multimodal). Key examples include GPT-4/4o (OpenAI), Gemini (Google), Claude (Anthropic), and LLaMA (Meta), with different models excelling at tasks from chatbots to complex reasoning. [1, 2, 3, 4, 5]  
+By Type/Architecture 
+
+• N-Gram Models: Probabilistic models predicting words based on preceding ones (e.g., trigrams). 
+• Word Embeddings: Techniques like Word2Vec, GloVe, ELMo, which represent words as vectors. 
+• Encoder-Only (Masked LMs): Understand context by filling in blanks (e.g., BERT, RoBERTa). 
+• Decoder-Only (Autoregressive): Generate text word-by-word (e.g., GPT series, LLaMA). 
+• Encoder-Decoder (Seq2Seq): Map input sequences to output sequences (e.g., T5, BART). 
+• Multimodal Models: Process text, images, audio, video (e.g., Gemini, GPT-4o). [1, 2, 3, 4, 6]  
+
+By Function/Specialization 
+
+• Instruction-Tuned: Optimized to follow user commands (e.g., ChatGPT, Claude). 
+• Open-Source: Models with accessible weights for broader use (e.g., LLaMA, Mistral, BLOOM). [2, 4, 7, 8]  
+
+Popular Examples (LLMs) 
+
+• OpenAI: GPT-3, GPT-4, GPT-4o (strong reasoning, dialogue). 
+• Google: Gemini (long context, multimodal). 
+• Anthropic: Claude (safety-focused, reasoning). 
+• Meta: LLaMA (open-weight, powerful). 
+• Mistral AI: Mistral 7B, Mixtral (efficient, open-source). 
+• Hugging Face: BLOOM (multilingual, open). [2, 7]  
+
+
